@@ -1,0 +1,14 @@
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\bin\Debug\net6.0\Project-Lode.exe
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\bin\Debug\net6.0\Project-Lode.deps.json
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\bin\Debug\net6.0\Project-Lode.runtimeconfig.json
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\bin\Debug\net6.0\Project-Lode.dll
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\bin\Debug\net6.0\Project-Lode.pdb
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.AssemblyInfoInputs.cache
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.AssemblyInfo.cs
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.csproj.CoreCompileInputs.cache
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.dll
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\refint\Project-Lode.dll
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.pdb
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\Project-Lode.genruntimeconfig.cache
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Project-Lode\Project-Lode\obj\Debug\net6.0\ref\Project-Lode.dll
